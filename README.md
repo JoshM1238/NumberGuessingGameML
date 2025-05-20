@@ -38,7 +38,17 @@ This is a terminal-based Java number guessing game where the computer attempts t
 
 ##  How to Run
 
-From the command line:
+> Open a terminal or PowerShell window 
 
-javac *.java
-java NumberGuessGame
+> move into the folder where your
+> .java files are located:
+> cd /path/to/NumberGuessML
+
+> Run the following command to compile
+> all .java files:
+> javac *.java
+
+> After compiling, start the program
+> by running the class that contains
+> the main() method:
+> java NumberGuessGame
