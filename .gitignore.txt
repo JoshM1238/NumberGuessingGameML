@@ -1,0 +1,5 @@
+# Ignore build files and IDE configs
+*.class
+.idea/
+out/
+*.iml
